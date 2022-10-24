@@ -1,0 +1,16 @@
+Package: data-skills-03
+Title: Data Skills 3 - Introduction to ggplot2 for Plotting
+Version: 0.1.0
+Authors@R: person("Christopher", "Prener", email = "chris.prener@gmail.com", role = c("aut", "cre"))
+Description:
+Depends: R (>= 3.5)
+License: CC-BY-SA-4.0 + LICENSE
+Web: https://slu-dss.github.io
+URL: https://github.com/chris-prener/data-skills-03
+BugReports: https://github.com/chris-prener/data-skills-03/issues
+Imports:
+    ggplot2,
+    knitr,
+    palmerpenguins,
+    rmarkdown,
+    usethis
